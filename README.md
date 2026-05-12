@@ -20,7 +20,7 @@ Non sostituisco l'umano con la tecnologia: lo amplifico, integrando l'AI dove cr
 - **Skill Claude** — Comandi personalizzati che trasformano Claude Code in un partner operativo permanente
 
 ### Formazione
-- **Vibe Coding Verona** — Corso pratico per non-tecnici: costruire con l'AI senza scrivere codice tradizionale
+- **Vibe Coding Verona** — Corso pratico organizzato dai docenti del coworking "Ready Player One" per non-tecnici: costruire con l'AI senza scrivere codice tradizionale
 
 ---
 
