@@ -42,5 +42,9 @@ Non sostituisco l'umano con la tecnologia: lo amplifico, integrando l'AI dove cr
 | Telegram | [@frank_war_85](https://t.me/frank_war_85) |
 
 ---
+## Notion Portfolio
+
+https://sl1nk.com/frank85-portfolio
+
 
 > *"L'AI più potente non è quella che sostituisce l'umano — è quella che lo amplifica."*
