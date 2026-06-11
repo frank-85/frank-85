@@ -14,6 +14,9 @@ Non sostituisco l'umano con la tecnologia: lo amplifico, integrando l'AI dove cr
 
 ## Cosa costruisco
 
+### Web app
+- **Skill-Match** — Bilancio competenze + coach vocale per allenare il colloquio, 100% client-side (React + TypeScript + Web Speech API) · [🚀 Demo live](https://skill-match-tan.vercel.app) · [Repo](https://github.com/frank-85/skill-match)
+
 ### Agenti AI operativi
 - **ARENA** — Simulatore di conversazioni strategiche: colloqui di lavoro, pitch a investitori, vendita B2B — tutto via Claude AI, zero infrastruttura
 - **Agenti Fiducia** — Sistema di agenti basati sulla teoria dei giochi applicata alle relazioni professionali (primo contatto, onboarding, orientamento AI)
@@ -26,7 +29,7 @@ Non sostituisco l'umano con la tecnologia: lo amplifico, integrando l'AI dove cr
 
 ## Stack
 
-`Claude API` · `MCP (Model Context Protocol)` · `Python` · `Node.js` · `Obsidian` · `PowerShell`
+`Claude API` · `MCP (Model Context Protocol)` · `React` · `TypeScript` · `Python` · `Node.js` · `Obsidian` · `PowerShell`
 
 ---
 
