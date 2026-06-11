@@ -24,7 +24,7 @@ Non sostituisco l'umano con la tecnologia: lo amplifico, integrando l'AI dove cr
 
 ### Formazione
 - **Vibe Coding Verona** — Corso pratico organizzato dai docenti del coworking "Ready Player One" per non-tecnici: costruire con l'AI senza scrivere codice tradizionale
-
+- **Forgiatura del second brain** — Corso sperimentale organizzato dal professionista e formatore AI Mattia Calastri (https://github.com/mattiacalastri/mattiacalastri): realizzazione di una memoria persistente con funzione di Knowledge Graph su Obsidian.
 ---
 
 ## Stack
